@@ -1,13 +1,13 @@
 
-# Crystal Ball - Chatterbox Skill
+# Coin flip - Chatterbox Skill
 
-Ask the magic 8 ball!
+Have chatterbox flip a coin for you
 
-This skill was features in the 1st post of [30 skill in 30 days challenge](https://hellochatterbox.com/blog/2020/04/day-1-chatterbox-basics/)
 
 Examples
 
-    "Ask crytal ball if I will get married this year"
+    "Flip a coin"
+    "Heads or Tails"
 
-![](crystal_ball.png)
+![](flip_coin.png)
 

@@ -1,0 +1,55 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="on_phrase_examples" id=")7_`i]oMEX_CWfU;JPm-" x="114" y="138">
+    <mutation xmlns="http://www.w3.org/1999/xhtml" items="3"></mutation>
+    <value name="PVALUE1">
+      <shadow type="multi_text" id="/*]8NJppd-/7tgmZ[wDy">
+        <field name="NAME"/>
+      </shadow>
+      <block type="text" id="Tnit`:Ju1)u`MJIfTZ#a">
+        <field name="TEXT">flip a coin</field>
+      </block>
+    </value>
+    <value name="PVALUE2">
+      <shadow type="multi_text" id="`(xHZCwHdk)(DJP.vWf{">
+        <field name="NAME"/>
+      </shadow>
+      <block type="text" id="}OGmnhcb~MtYyO2U(vg2">
+        <field name="TEXT">heads or tails</field>
+      </block>
+    </value>
+    <value name="PVALUE3">
+      <shadow type="multi_text" id="S)vV8n6,%jj4JLxmmvCQ">
+        <field name="NAME"/>
+      </shadow>
+      <block type="text" id="W6b79pdAk*;xU={13o,+">
+        <field name="TEXT">do a coin flip</field>
+      </block>
+    </value>
+    <statement name="CODE">
+      <block type="play_sound_wait" id="dK?_;@5$+DU$oPq~;dew">
+        <field name="sound">coin-flip.mp3</field>
+        <next>
+          <block type="speak_random" id="Wb*1Ru_h~,gC{yMWI)N3">
+            <mutation xmlns="http://www.w3.org/1999/xhtml" items="2"></mutation>
+            <value name="MESSAGE1">
+              <shadow type="multi_text" id="6k[}=jz}6)3Q)sX:F}wF">
+                <field name="NAME"/>
+              </shadow>
+              <block type="multi_text" id="*5v7UeZBeEG_AzRihanp">
+                <field name="NAME">heads</field>
+              </block>
+            </value>
+            <value name="MESSAGE2">
+              <shadow type="multi_text" id="YI0h64/PsoBI#{F(@2Z`">
+                <field name="NAME"/>
+              </shadow>
+              <block type="multi_text" id="jKN_IxuR5lg|Q;g}eWxS">
+                <field name="NAME">tails</field>
+              </block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+</xml>
