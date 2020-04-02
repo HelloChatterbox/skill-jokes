@@ -1,17 +1,13 @@
 
-# Coronavirus - Chatterbox Skill
+# Crystal Ball - Chatterbox Skill
 
-All the numbers regarding the Corona Virus pandemic
+Ask the magic 8 ball!
 
-Using chatterbox web_apis extensions you can query the [Covid19 API](https://covid19api.com/)
+This skill was features in the 1st post of [30 skill in 30 days challenge](https://hellochatterbox.com/blog/2020/04/day-1-chatterbox-basics/)
 
 Examples
 
-    "how many deaths from coronavirus in {Country} today?"
-    "how many people were infected with coronavirus in {Country} today?"
-    "Total corona virus deaths"
-    "Total corona virus recoveries"
-    "New corona virus cases"
+    "Ask crytal ball if I will get married this year"
 
-![](covid.png)
+![](crystal_ball.png)
 
