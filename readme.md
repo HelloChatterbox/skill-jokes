@@ -1,13 +1,15 @@
 
-# Coin flip - Chatterbox Skill
+# Youtube - Chatterbox Skill
 
-Have chatterbox flip a coin for you
+Search and play audio from youtube
+
+The most basic music skill for chatterbox!
 
 
 Examples
 
-    "Flip a coin"
-    "Heads or Tails"
+    "Search youtube for programming music"
+    "Play rob zombie"
 
-![](flip_coin.png)
+![](youtube.png)
 
