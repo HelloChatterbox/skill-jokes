@@ -1,15 +1,20 @@
 
-# Youtube - Chatterbox Skill
+# Jokes - Chatterbox Skill
 
-Search and play audio from youtube
+Jokes from a selection of web apis
 
-The most basic music skill for chatterbox!
+- [ICanHazDadJoke](https://icanhazdadjoke.com/)
+- [the internet chuck norris db](http://www.icndb.com)
+- [chucknorris.io](http://www.icndb.com)
+- [JokeAPI](https://sv443.net/jokeapi/v2)
 
 
 Examples
 
-    "Search youtube for programming music"
-    "Play rob zombie"
+    "Tell me a joke"
+    "Chuck Norris joke"
+    "I want a programming joke"
+    
 
-![](youtube.png)
+![](joke.png)
 
