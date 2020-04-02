@@ -5,7 +5,7 @@ Jokes from a selection of web apis
 
 - [ICanHazDadJoke](https://icanhazdadjoke.com/)
 - [the internet chuck norris db](http://www.icndb.com)
-- [chucknorris.io](http://www.icndb.com)
+- [chucknorris.io](https://api.chucknorris.io/)
 - [JokeAPI](https://sv443.net/jokeapi/v2)
 
 
